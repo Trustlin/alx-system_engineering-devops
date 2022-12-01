@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -mrgo+x 
+chmod -R +x . 
